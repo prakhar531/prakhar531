@@ -4,7 +4,9 @@ A passionate full stack web developer proficient in HTML5 | CSS3 | JavaScript | 
 
 - 👀 I’m interested in Full Stack MERN projects.
 - 🌱 I’m currently learning Next.js 14.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on MERN projects.
+- 👨‍💻 All of my projects are available at https://github.com/prakahr531/
+- 💬 Ask me about JavaScript, React, Node, React
 
 <!---
 prakhar531/prakhar531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
