@@ -1,6 +1,8 @@
 👋 Hi, I’m Prakhar Arya.
 
 A passionate full stack web developer proficient in HTML5 | CSS3 | JavaScript | Bootstrap and the MERN stack (MongoDB, Express.js, React.js, Node.js).💻
+
+
 I bring a strong foundation in Data Structure and Algorithms. I've successfully solved over 300+ LeetCode problems in java, enabling me to craft scalable and effective solutions.
 
 - 👀 I’m interested in Full Stack MERN projects.
